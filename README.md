@@ -1,2 +1,2 @@
 # Rufux
-Linux port of Rufus image-writing tool
+A Linux port of the Rufus image-writing tool (http://rufus.akeo.ie/).
