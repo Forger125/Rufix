@@ -11,3 +11,4 @@ An open source, native Linux port of the Rufus image-writing tool (http://rufus.
   * Create a GTK4 GUI frontend for the command line
 * Long term
   * Multi-boot support
+  * Persistent storage support
