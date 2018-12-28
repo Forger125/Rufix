@@ -1,4 +1,4 @@
-# Rufux
+# Rufix
 An open source, native Linux port of the Rufus image-writing tool (http://rufus.akeo.ie/).
 
 ## Project Goals ##
